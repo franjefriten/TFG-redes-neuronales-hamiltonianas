@@ -1,0 +1,14 @@
+# entornos virtuales
+.env
+.venv
+env
+venv
+
+LICENSE
+latex.txt
+
+*.py
+descarga.pdf
+ideal_pendulum_*
+latex_tfg.txt
+
